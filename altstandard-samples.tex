@@ -1,62 +1,58 @@
 \documentclass[a4paper]{article}
 \usepackage{fontspec}
-\usepackage[margin=2.5cm]{geometry}
+\usepackage[a4paper,margin=2.5cm]{geometry}
 \setmainfont{AltStandard}[]
 \usepackage{lipsum}
+%
 \begin{document}
 \thispagestyle{empty}
-
 \begin{center}\huge\textsc{\textbf{Alt Standard}}
 \end{center}
-
-
+%
 \section*{Regular}
 \lipsum[1]
-
+%
+\section*{It.}
+\textit{\lipsum[2]}
+%
+\section*{Bold}
+\textbf{\lipsum[4]}
+%
+\section*{Bold Italic}
+\textbf{\textit{\lipsum[1]}}
+%
 \section*{Small Caps}
 \textsc{\lipsum[1]}
-
-\section*{Italic}
-\textit{\lipsum[2]}
-
+%
 \section*{Default Numbers}
-
 1234567890
-
+%
 \section*{Oldstyle Numbers}
-
 \oldstylenums{1234567890}
-
+%
 \section*{Lining Numbers}
-
 \liningnums{1234567890}
-
+%
 \section*{Tabular Numbers}
-
 \oldstylenums{1234567890}
-
+%
 \section*{Proportional Numbers}
-
 \oldstylenums{1234567890}
-
+%
 \section*{Superior Numbers}
-
 X\textsuperscript{1234567890}
-
+%
 \section*{Inferior Numbers}
-
 X\textsubscript{1234567890}
-
+%
 \section*{GR}
-
  α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ/ς τ υ φ χ ψ ω ϝ \\
  Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϝ\\
 \textit{ α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ/ς τ υ φ χ ψ ω ϝ\\
  Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω Ϝ}\par
-
+%
 \section*{Cyrillic}
-
 Съешь ещё этих мягких французских булок да
 выпей чаю!\par
-
+%
 \end{document}
