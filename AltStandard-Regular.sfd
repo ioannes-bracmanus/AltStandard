@@ -3,7 +3,7 @@ FontName: AltStandard-Regular
 FullName: Alt Standard Regular
 FamilyName: Alt Standard
 Weight: Regular
-Copyright: Copyright (c) 2006-2011 Alexey Kryukov <amkryukov@gmail.com>,\nwithout Reserved Font Names.\n\nCopyright (c) 2019-2023, Robert Alessi <alessi@robertalessi.net>,\nwithout Reserved Font Names.\n\nCopyright (c) 2023, Antonis Tsolomitis <atsol@aegean.gr>,\nwithout Reserved Font Names.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\nCopyright (c) 2025, Juan J. Bracamonte L., without Reserved Font Names.
+Copyright: Copyright (c) 2006-2011 Alexey Kryukov <amkryukov@gmail.com>,\nwithout Reserved Font Names.\n\nCopyright (c) 2019-2023, Robert Alessi <alessi@robertalessi.net>,\nwithout Reserved Font Names.\n\nCopyright (c) 2023, Antonis Tsolomitis <atsol@aegean.gr>,\nwithout Reserved Font Names.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\nCopyright (c) 2025, Ioannes Bracledus, without Reserved Font Names.
 Version: 2.7a
 ItalicAngle: 0
 UnderlinePosition: -158
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1300584531
-ModificationTime: 1765943748
+ModificationTime: 1773197641
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -58,6 +58,7 @@ OS2FamilyClass: 768
 OS2Vendor: 'PfEd'
 OS2CodePages: 2000009f.00000000
 OS2UnicodeRanges: e0000aff.5a0020ff.02000000.00000000
+Lookup: 1 0 0 "'lsig' lunar-sigma" { "'lsig' lunar-sigma-1"  } ['lsig' ('DFLT' <'dflt' > 'cyrl' <'CSL ' 'SRB ' 'dflt' > 'grek' <'ELL ' 'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'DEU ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'PLK ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'smcp' Lowercase to Small Capitals lookup 0" { "'smcp' Lowercase to Small Capitals lookup 0 subtable"  } ['smcp' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 1 0 0 "'c2sc' Capitals to Small Capitals lookup 1" { "'c2sc' Capitals to Small Capitals lookup 1 subtable"  } ['c2sc' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 3 0 0 "'aalt' Access All Alternates lookup 2" { "'aalt' Access All Alternates lookup 2 subtable"  } ['aalt' ('cyrl' <'CSL ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
@@ -110,34 +111,6 @@ Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 48" { "'onum' Oldstyle Figures loo
 Lookup: 1 0 0 "'pnum' Proportional Numbers lookup 49" { "'pnum' Proportional Numbers lookup 49 subtable"  } ['pnum' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'latn' <'AZE ' 'CRT ' 'MOL ' 'NLD ' 'PLK ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'tnum' Tabular Numbers lookup 50" { "'tnum' Tabular Numbers lookup 50 subtable"  } ['tnum' ('DFLT' <'dflt' > 'cyrl' <'CSL ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'PLK ' 'ROM ' 'TRK ' 'dflt' > 'math' <'dflt' > ) ]
 Lookup: 1 0 0 "'lnum' Lining Figures lookup 51" { "'lnum' Lining Figures lookup 51 subtable"  } ['lnum' ('DFLT' <'dflt' > 'cyrl' <'CSL ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'hebr' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'PLK ' 'ROM ' 'TRK ' 'dflt' > 'math' <'dflt' > ) ]
-Lookup: 1 0 0 "GFSPorsonGr-Regular-Single Substitution lookup 0" { "GFSPorsonGr-Regular-Single Substitution lookup 0 subtable"  } ['lsgm' ('DFLT' <'dflt' > 'bopo' <'dflt' > 'cyrl' <'dflt' > 'goth' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > 'math' <'dflt' > 'runr' <'dflt' > ) ]
-Lookup: 6 0 0 "GFSPorsonGr-Regular-'locl' Localized Forms in Latin lookup 1" { "GFSPorsonGr-Regular-'locl' Localized Forms in Latin lookup 1 subtable"  } ['locl' ('latn' <'CAT ' > ) ]
-Lookup: 6 0 0 "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 2" { "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 2 subtable"  } ['calt' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "GFSPorsonGr-Regular-'calt' Contextual Alternates in Latin lookup 3" { "GFSPorsonGr-Regular-'calt' Contextual Alternates in Latin lookup 3 subtable"  } ['calt' ('latn' <'ENG ' > ) ]
-Lookup: 6 0 0 "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 4" { "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 4 contextual 0"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 4 contextual 1"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 4 contextual 2"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 4 contextual 3"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 4 contextual 4"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 4 contextual 5"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 4 contextual 6"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 4 contextual 7"  } ['calt' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "GFSPorsonGr-Regular-'locl' Localized Forms in Latin lookup 5" { "GFSPorsonGr-Regular-'locl' Localized Forms in Latin lookup 5 subtable"  } ['locl' ('latn' <'NLD ' > ) ]
-Lookup: 6 0 0 "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 6" { "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 6 contextual 0"  "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 6 contextual 1"  "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 6 contextual 2"  "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 6 contextual 3"  } ['ccmp' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 7" { "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 7 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 8" { "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 8 contextual 0"  "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 8 contextual 1"  } ['ccmp' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 9" { "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 9 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 10" { "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 10 contextual 0"  "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 10 contextual 1"  "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 10 contextual 2"  "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 10 contextual 3"  } ['ccmp' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 11" { "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 11 contextual 0"  "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 11 contextual 1"  "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 11 contextual 2"  } ['ccmp' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "GFSPorsonGr-Regular-'frac' Diagonal Fractions lookup 12" { "GFSPorsonGr-Regular-'frac' Diagonal Fractions lookup 12 contextual 0"  "GFSPorsonGr-Regular-'frac' Diagonal Fractions lookup 12 contextual 1"  } ['frac' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "GFSPorsonGr-Regular-'ordn' Ordinals lookup 13" { "GFSPorsonGr-Regular-'ordn' Ordinals lookup 13 contextual 0"  "GFSPorsonGr-Regular-'ordn' Ordinals lookup 13 contextual 1"  } ['ordn' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 5 0 0 "GFSPorsonGr-Regular-'ss07' Style Set 7 lookup 14" { "GFSPorsonGr-Regular-'ss07' Style Set 7 lookup 14 subtable"  } ['ss07' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 5 0 0 "GFSPorsonGr-Regular-'ss07' Style Set 7 lookup 15" { "GFSPorsonGr-Regular-'ss07' Style Set 7 lookup 15 subtable"  } ['ss07' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 16" { "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 16 contextual 0"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 16 contextual 1"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 16 contextual 2"  } ['calt' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 17" { "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 17 contextual 0"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 17 contextual 1"  } ['calt' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 0 0 "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 18" { "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 18 subtable"  } ['calt' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 5 8 0 "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 19" { "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 19 subtable"  } ['calt' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 5 8 0 "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 20" { "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 20 contextual 0"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 20 contextual 1"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 20 contextual 2"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 20 contextual 3"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 20 contextual 4"  } ['calt' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 5 8 0 "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 21" { "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 21 subtable"  } ['calt' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 131088 0 "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 22" { "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 22 subtable"  } ['calt' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 131088 0 "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 23" { "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 23 subtable"  } ['calt' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 16 0 "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 24" { "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 24 contextual 0"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 24 contextual 1"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 24 contextual 2"  } ['calt' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 16 0 "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 25" { "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 25 contextual 0"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 25 contextual 1"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 25 contextual 2"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 25 contextual 3"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 25 contextual 4"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 25 contextual 5"  } ['calt' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 16 0 "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 26" { "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 26 contextual 0"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 26 contextual 1"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 26 contextual 2"  } ['calt' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 6 16 0 "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 27" { "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 27 contextual 0"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 27 contextual 1"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 27 contextual 2"  "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 27 contextual 3"  } ['calt' ('DFLT' <'dflt' > 'grek' <'ELL ' 'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'ENG ' 'FRA ' 'GAE ' 'IRI ' 'IRT ' 'KAZ ' 'LAT ' 'MOL ' 'NLD ' 'ROM ' 'SGA ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 263 0 0 "Required Feature lookup 0" { "Required Feature lookup 0 subtable"  } [' RQD' ('DFLT' <'dflt' > 'cyrl' <'CSL ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 263 0 0 "Required Feature lookup 1" { "Required Feature lookup 1 subtable"  } [' RQD' ('DFLT' <'dflt' > 'cyrl' <'CSL ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'NLD ' 'ROM ' 'TRK ' 'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning lookup 2" { "'mark' Mark Positioning lookup 2 anchor 0"  "'mark' Mark Positioning lookup 2 anchor 1"  "'mark' Mark Positioning lookup 2 anchor 2"  "'mark' Mark Positioning lookup 2 anchor 3"  "'mark' Mark Positioning lookup 2 anchor 4"  "'mark' Mark Positioning lookup 2 anchor 5"  "'mark' Mark Positioning lookup 2 anchor 6"  } ['mark' ('cyrl' <'CSL ' 'SRB ' 'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CRT ' 'DEU ' 'MOL ' 'ROM ' 'TRK ' 'dflt' > ) ]
@@ -1154,404 +1127,6 @@ ContextPos2: class "Required Feature lookup 0 subtable" 4 0 0 2
   SeqLookup: 0 "Single Positioning lookup 11"
   ClassNames: "0" "1" "2" "3"
 EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 27 contextual 3" 0 0 0 1
- 1 0 2
-  Coverage: 0 
-  FCoverage: 1276 iotadieresistonos alphatonos epsilontonos etatonos iotatonos upsilondieresistonos alpha beta gamma delta epsilon zeta eta theta iota kappa lambda uni03BC nu xi omicron pi rho uni03C2 sigma tau upsilon phi chi psi omega iotadieresis upsilondieresis omicrontonos upsilontonos omegatonos uni03DB uni03DD uni1F00 uni1F01 uni1F02 uni1F03 uni1F04 uni1F05 uni1F06 uni1F07 uni1F10 uni1F11 uni1F12 uni1F13 uni1F14 uni1F15 uni1F20 uni1F21 uni1F22 uni1F23 uni1F24 uni1F25 uni1F26 uni1F27 uni1F30 uni1F31 uni1F32 uni1F33 uni1F34 uni1F35 uni1F36 uni1F37 uni1F40 uni1F41 uni1F42 uni1F43 uni1F44 uni1F45 uni1F50 uni1F51 uni1F52 uni1F53 uni1F54 uni1F55 uni1F56 uni1F57 uni1F60 uni1F61 uni1F62 uni1F63 uni1F64 uni1F65 uni1F66 uni1F67 uni1F70 uni1F71 uni1F72 uni1F73 uni1F74 uni1F75 uni1F76 uni1F77 uni1F78 uni1F79 uni1F7A uni1F7B uni1F7C uni1F7D uni1F80 uni1F81 uni1F82 uni1F83 uni1F84 uni1F85 uni1F86 uni1F87 uni1F90 uni1F91 uni1F92 uni1F93 uni1F94 uni1F95 uni1F96 uni1F97 uni1FA0 uni1FA1 uni1FA2 uni1FA3 uni1FA4 uni1FA5 uni1FA6 uni1FA7 uni1FB0 uni1FB1 uni1FB2 uni1FB3 uni1FB4 uni1FB6 uni1FB7 uni1FBE uni1FC2 uni1FC3 uni1FC4 uni1FC6 uni1FC7 uni1FD0 uni1FD1 uni1FD2 uni1FD3 uni1FD6 uni1FD7 uni1FE0 uni1FE1 uni1FE2 uni1FE3 uni1FE4 uni1FE5 uni1FE6 uni1FE7 uni1FF2 uni1FF3 uni1FF4 uni1FF6 uni1FF7
-  FCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 27 contextual 2" 0 0 0 1
- 1 0 2
-  Coverage: 0 
-  FCoverage: 0 
-  FCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 27 contextual 1" 0 0 0 1
- 1 0 1
-  Coverage: 0 
-  FCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 27 contextual 0" 0 0 0 1
- 1 0 1
-  Coverage: 0 
-  FCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 26 contextual 2" 0 0 0 1
- 1 0 0
-  Coverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 26 contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 26 contextual 0" 0 0 0 1
- 1 0 1
-  Coverage: 0 
-  FCoverage: 2401 Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos iotadieresistonos Alpha Beta Gamma uni0394 Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi uni03A9 Iotadieresis Upsilondieresis alphatonos epsilontonos etatonos iotatonos upsilondieresistonos alpha beta gamma delta epsilon zeta eta theta iota kappa lambda uni03BC nu xi omicron pi rho uni03C2 sigma tau upsilon phi chi psi omega iotadieresis upsilondieresis omicrontonos upsilontonos omegatonos uni03DA uni03DB uni03DC uni03DD uni1F00 uni1F01 uni1F02 uni1F03 uni1F04 uni1F05 uni1F06 uni1F07 uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1F10 uni1F11 uni1F12 uni1F13 uni1F14 uni1F15 uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1F20 uni1F21 uni1F22 uni1F23 uni1F24 uni1F25 uni1F26 uni1F27 uni1F28 uni1F29 uni1F2A uni1F2B uni1F2C uni1F2D uni1F2E uni1F2F uni1F30 uni1F31 uni1F32 uni1F33 uni1F34 uni1F35 uni1F36 uni1F37 uni1F38 uni1F39 uni1F3A uni1F3B uni1F3C uni1F3D uni1F3E uni1F3F uni1F40 uni1F41 uni1F42 uni1F43 uni1F44 uni1F45 uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1F50 uni1F51 uni1F52 uni1F53 uni1F54 uni1F55 uni1F56 uni1F57 uni1F59 uni1F5B uni1F5D uni1F5F uni1F60 uni1F61 uni1F62 uni1F63 uni1F64 uni1F65 uni1F66 uni1F67 uni1F68 uni1F69 uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F uni1F70 uni1F71 uni1F72 uni1F73 uni1F74 uni1F75 uni1F76 uni1F77 uni1F78 uni1F79 uni1F7A uni1F7B uni1F7C uni1F7D uni1F80 uni1F81 uni1F82 uni1F83 uni1F84 uni1F85 uni1F86 uni1F87 uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1F90 uni1F91 uni1F92 uni1F93 uni1F94 uni1F95 uni1F96 uni1F97 uni1F98 uni1F99 uni1F9A uni1F9B uni1F9C uni1F9D uni1F9E uni1F9F uni1FA0 uni1FA1 uni1FA2 uni1FA3 uni1FA4 uni1FA5 uni1FA6 uni1FA7 uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF uni1FB0 uni1FB1 uni1FB2 uni1FB3 uni1FB4 uni1FB6 uni1FB7 uni1FB8 uni1FB9 uni1FBA uni1FBB uni1FBC uni1FBD uni1FBE uni1FBF uni1FC0 uni1FC1 uni1FC2 uni1FC3 uni1FC4 uni1FC6 uni1FC7 uni1FC8 uni1FC9 uni1FCA uni1FCB uni1FCC uni1FCD uni1FCE uni1FCF uni1FD0 uni1FD1 uni1FD2 uni1FD3 uni1FD6 uni1FD7 uni1FD8 uni1FD9 uni1FDA uni1FDB uni1FDD uni1FDE uni1FDF uni1FE0 uni1FE1 uni1FE2 uni1FE3 uni1FE4 uni1FE5 uni1FE6 uni1FE7 uni1FE8 uni1FE9 uni1FEA uni1FEB uni1FEC uni1FED uni1FEE uni1FEF uni1FF2 uni1FF3 uni1FF4 uni1FF6 uni1FF7 uni1FF8 uni1FF9 uni1FFA uni1FFB uni1FFC
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 25 contextual 5" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 25 contextual 4" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 25 contextual 3" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 25 contextual 2" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 25 contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 25 contextual 0" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 24 contextual 2" 0 0 0 1
- 1 0 0
-  Coverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 24 contextual 1" 0 0 0 1
- 1 2 0
-  Coverage: 0 
-  BCoverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 24 contextual 0" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 23 subtable" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 774 iotadieresistonos upsilondieresistonos uni1F02 uni1F03 uni1F05 uni1F06 uni1F07 uni1F0E uni1F0F uni1F12 uni1F13 uni1F15 uni1F20 uni1F21 uni1F22 uni1F23 uni1F25 uni1F26 uni1F27 uni1F2E uni1F2F uni1F30 uni1F31 uni1F32 uni1F33 uni1F35 uni1F36 uni1F37 uni1F3E uni1F3F uni1F42 uni1F43 uni1F45 uni1F50 uni1F51 uni1F52 uni1F53 uni1F55 uni1F56 uni1F57 uni1F5F uni1F60 uni1F61 uni1F62 uni1F63 uni1F65 uni1F66 uni1F67 uni1F6E uni1F6F uni1F80 uni1F81 uni1F82 uni1F83 uni1F85 uni1F86 uni1F87 uni1F8E uni1F8F uni1F90 uni1F91 uni1F92 uni1F93 uni1F95 uni1F96 uni1F97 uni1F9E uni1F9F uni1FA0 uni1FA1 uni1FA2 uni1FA3 uni1FA5 uni1FA6 uni1FA7 uni1FAE uni1FAF uni1FB0 uni1FB1 uni1FB6 uni1FB7 uni1FC6 uni1FC7 uni1FD0 uni1FD1 uni1FD3 uni1FD6 uni1FD7 uni1FE0 uni1FE1 uni1FE6 uni1FE7 uni1FF6 uni1FF7
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 22 subtable" 0 0 0 1
- 1 0 2
-  Coverage: 0 
-  FCoverage: 0 
-  FCoverage: 0 
- 0
-EndFPST
-ContextSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 21 subtable" 0 0 0 1
- 2 0 0
-  Coverage: 0 
-  Coverage: 774 iotadieresistonos upsilondieresistonos uni1F02 uni1F03 uni1F05 uni1F06 uni1F07 uni1F0E uni1F0F uni1F12 uni1F13 uni1F15 uni1F20 uni1F21 uni1F22 uni1F23 uni1F25 uni1F26 uni1F27 uni1F2E uni1F2F uni1F30 uni1F31 uni1F32 uni1F33 uni1F35 uni1F36 uni1F37 uni1F3E uni1F3F uni1F42 uni1F43 uni1F45 uni1F50 uni1F51 uni1F52 uni1F53 uni1F55 uni1F56 uni1F57 uni1F5F uni1F60 uni1F61 uni1F62 uni1F63 uni1F65 uni1F66 uni1F67 uni1F6E uni1F6F uni1F80 uni1F81 uni1F82 uni1F83 uni1F85 uni1F86 uni1F87 uni1F8E uni1F8F uni1F90 uni1F91 uni1F92 uni1F93 uni1F95 uni1F96 uni1F97 uni1F9E uni1F9F uni1FA0 uni1FA1 uni1FA2 uni1FA3 uni1FA5 uni1FA6 uni1FA7 uni1FAE uni1FAF uni1FB0 uni1FB1 uni1FB6 uni1FB7 uni1FC6 uni1FC7 uni1FD0 uni1FD1 uni1FD3 uni1FD6 uni1FD7 uni1FE0 uni1FE1 uni1FE6 uni1FE7 uni1FF6 uni1FF7
- 0
-EndFPST
-ContextSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 20 contextual 4" 0 0 0 1
- 2 0 0
-  Coverage: 0 
-  Coverage: 0 
- 0
-EndFPST
-ContextSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 20 contextual 3" 0 0 0 1
- 2 0 0
-  Coverage: 0 
-  Coverage: 0 
- 0
-EndFPST
-ContextSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 20 contextual 2" 0 0 0 1
- 2 0 0
-  Coverage: 0 
-  Coverage: 0 
- 0
-EndFPST
-ContextSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 20 contextual 1" 0 0 0 1
- 2 0 0
-  Coverage: 0 
-  Coverage: 0 
- 0
-EndFPST
-ContextSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 20 contextual 0" 0 0 0 1
- 2 0 0
-  Coverage: 0 
-  Coverage: 0 
- 0
-EndFPST
-ContextSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 19 subtable" 0 0 0 1
- 2 0 0
-  Coverage: 0 
-  Coverage: 0 
- 0
-EndFPST
-ChainSub2: class "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 18 subtable" 1 1 1 3
- 1 0 1
-  ClsList: 1
-  BClsList:
-  FClsList: 1
- 0
- 1 0 1
-  ClsList: 2
-  BClsList:
-  FClsList: 1
- 0
- 1 0 1
-  ClsList: 3
-  BClsList:
-  FClsList: 1
- 0
-  ClassNames: "0"
-  BClassNames: "0"
-  FClassNames: "0"
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 17 contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 17 contextual 0" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 16 contextual 2" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 16 contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 16 contextual 0" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ContextSub2: coverage "GFSPorsonGr-Regular-'ss07' Style Set 7 lookup 15 subtable" 0 0 0 1
- 1 0 0
-  Coverage: 2289 Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos iotadieresistonos Alpha Beta Gamma uni0394 Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi uni03A9 Iotadieresis Upsilondieresis alphatonos epsilontonos etatonos iotatonos upsilondieresistonos alpha beta gamma delta epsilon zeta eta theta iota kappa lambda uni03BC nu xi omicron pi rho uni03C2 sigma tau upsilon phi chi psi omega iotadieresis upsilondieresis omicrontonos upsilontonos omegatonos uni03DA uni03DB uni03DC uni03DD uni1F00 uni1F01 uni1F02 uni1F03 uni1F04 uni1F05 uni1F06 uni1F07 uni1F08 uni1F09 uni1F0A uni1F0B uni1F0C uni1F0D uni1F0E uni1F0F uni1F10 uni1F11 uni1F12 uni1F13 uni1F14 uni1F15 uni1F18 uni1F19 uni1F1A uni1F1B uni1F1C uni1F1D uni1F20 uni1F21 uni1F22 uni1F23 uni1F24 uni1F25 uni1F26 uni1F27 uni1F28 uni1F29 uni1F2A uni1F2B uni1F2C uni1F2D uni1F2E uni1F2F uni1F30 uni1F31 uni1F32 uni1F33 uni1F34 uni1F35 uni1F36 uni1F37 uni1F38 uni1F39 uni1F3A uni1F3B uni1F3C uni1F3D uni1F3E uni1F3F uni1F40 uni1F41 uni1F42 uni1F43 uni1F44 uni1F45 uni1F48 uni1F49 uni1F4A uni1F4B uni1F4C uni1F4D uni1F50 uni1F51 uni1F52 uni1F53 uni1F54 uni1F55 uni1F56 uni1F57 uni1F59 uni1F5B uni1F5D uni1F5F uni1F60 uni1F61 uni1F62 uni1F63 uni1F64 uni1F65 uni1F66 uni1F67 uni1F68 uni1F69 uni1F6A uni1F6B uni1F6C uni1F6D uni1F6E uni1F6F uni1F70 uni1F71 uni1F72 uni1F73 uni1F74 uni1F75 uni1F76 uni1F77 uni1F78 uni1F79 uni1F7A uni1F7B uni1F7C uni1F7D uni1F80 uni1F81 uni1F82 uni1F83 uni1F84 uni1F85 uni1F86 uni1F87 uni1F88 uni1F89 uni1F8A uni1F8B uni1F8C uni1F8D uni1F8E uni1F8F uni1F90 uni1F91 uni1F92 uni1F93 uni1F94 uni1F95 uni1F96 uni1F97 uni1F98 uni1F99 uni1F9A uni1F9B uni1F9C uni1F9D uni1F9E uni1F9F uni1FA0 uni1FA1 uni1FA2 uni1FA3 uni1FA4 uni1FA5 uni1FA6 uni1FA7 uni1FA8 uni1FA9 uni1FAA uni1FAB uni1FAC uni1FAD uni1FAE uni1FAF uni1FB0 uni1FB1 uni1FB2 uni1FB3 uni1FB4 uni1FB6 uni1FB7 uni1FB8 uni1FB9 uni1FBA uni1FBB uni1FBC uni1FC2 uni1FC3 uni1FC4 uni1FC6 uni1FC7 uni1FC8 uni1FC9 uni1FCA uni1FCB uni1FCC uni1FD0 uni1FD1 uni1FD2 uni1FD3 uni1FD6 uni1FD7 uni1FD8 uni1FD9 uni1FDA uni1FDB uni1FE0 uni1FE1 uni1FE2 uni1FE3 uni1FE4 uni1FE5 uni1FE6 uni1FE7 uni1FE8 uni1FE9 uni1FEA uni1FEB uni1FEC uni1FF2 uni1FF3 uni1FF4 uni1FF6 uni1FF7 uni1FF8 uni1FF9 uni1FFA uni1FFB uni1FFC
- 0
-EndFPST
-ContextSub2: coverage "GFSPorsonGr-Regular-'ss07' Style Set 7 lookup 14 subtable" 0 0 0 1
- 1 0 0
-  Coverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'ordn' Ordinals lookup 13 contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'ordn' Ordinals lookup 13 contextual 0" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'frac' Diagonal Fractions lookup 12 contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'frac' Diagonal Fractions lookup 12 contextual 0" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 11 contextual 2" 0 0 0 1
- 1 0 1
-  Coverage: 79 Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos
-  FCoverage: 236 Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Alpha Beta Gamma uni0394 Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi uni03A9 Iotadieresis Upsilondieresis
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 11 contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 79 Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos
-  BCoverage: 236 Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Alpha Beta Gamma uni0394 Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi uni03A9 Iotadieresis Upsilondieresis
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 11 contextual 0" 0 0 0 1
- 1 0 1
-  Coverage: 79 Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos
-  FCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 10 contextual 3" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 10 contextual 2" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 10 contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 7 Upsilon
-  BCoverage: 56 Alphatonos Epsilontonos Etatonos Omicrontonos Omegatonos
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 10 contextual 0" 0 0 0 1
- 1 1 0
-  Coverage: 4 Iota
-  BCoverage: 49 Alphatonos Epsilontonos Omicrontonos Upsilontonos
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 9 subtable" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 8 contextual 1" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 8 contextual 0" 0 0 0 1
- 1 2 0
-  Coverage: 0 
-  BCoverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 7 subtable" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 6 contextual 3" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 6 contextual 2" 0 0 0 1
- 1 0 3
-  Coverage: 0 
-  FCoverage: 0 
-  FCoverage: 0 
-  FCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 6 contextual 1" 0 0 0 1
- 1 0 2
-  Coverage: 0 
-  FCoverage: 0 
-  FCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'ccmp' Glyph Composition/Decomposition lookup 6 contextual 0" 0 0 0 1
- 1 0 1
-  Coverage: 0 
-  FCoverage: 0 
- 0
-EndFPST
-ChainSub2: glyph "GFSPorsonGr-Regular-'locl' Localized Forms in Latin lookup 5 subtable" 0 0 0 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 4 contextual 7" 0 0 0 1
- 1 2 0
-  Coverage: 0 
-  BCoverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 4 contextual 6" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 4 contextual 5" 0 0 0 1
- 1 2 0
-  Coverage: 0 
-  BCoverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 4 contextual 4" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 4 contextual 3" 0 0 0 1
- 1 2 0
-  Coverage: 0 
-  BCoverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 4 contextual 2" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 4 contextual 1" 0 0 0 1
- 1 2 0
-  Coverage: 0 
-  BCoverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 4 contextual 0" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates in Latin lookup 3 subtable" 0 0 0 1
- 1 0 1
-  Coverage: 0 
-  FCoverage: 0 
- 0
-EndFPST
-ChainSub2: coverage "GFSPorsonGr-Regular-'calt' Contextual Alternates lookup 2 subtable" 0 0 0 1
- 1 1 0
-  Coverage: 0 
-  BCoverage: 0 
- 0
-EndFPST
-ChainSub2: glyph "GFSPorsonGr-Regular-'locl' Localized Forms in Latin lookup 1 subtable" 0 0 0 0
-EndFPST
 ChainPos2: coverage "GFSPorsonGr-Regular-'kern' Horizontal Kerning lookup 20 contextual 16" 0 0 0 1
  1 1 1
   Coverage: 0 
@@ -2264,13 +1839,13 @@ LangName: 1053 "" "" "Mager"
 LangName: 2068 "" "" "Vanlig"
 LangName: 2070 "" "" "Normal"
 LangName: 3082 "" "" "Normal"
-OtfFeatName: 'ss15' 1033 "Old Cyrillic I and N"
-OtfFeatName: 'ss14' 1033 "Localized Forms for Old Slavonic"
-OtfFeatName: 'ss12' 1033 "Optional Serbian Variant Forms"
-OtfFeatName: 'ss06' 1033 "Medial/Final Forms for Greek"
-OtfFeatName: 'ss05' 1033 "Closed Greek Theta"
-OtfFeatName: 'ss02' 1033 "Insular Forms for Old English"
 OtfFeatName: 'ss01' 1033 "Localized Forms for Romanian"
+OtfFeatName: 'ss02' 1033 "Insular Forms for Old English"
+OtfFeatName: 'ss05' 1033 "Closed Greek Theta"
+OtfFeatName: 'ss06' 1033 "Medial/Final Forms for Greek"
+OtfFeatName: 'ss12' 1033 "Optional Serbian Variant Forms"
+OtfFeatName: 'ss14' 1033 "Localized Forms for Old Slavonic"
+OtfFeatName: 'ss15' 1033 "Old Cyrillic I and N"
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -2278,7 +1853,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 27 9
+WinInfo: 351 27 9
 BeginPrivate: 7
 BlueValues 31 [-18 0 456 468 684 700 712 730]
 OtherBlues 31 [-294 -282 -238 -228 -168 -156]
@@ -23720,7 +23295,7 @@ SplineSet
  370 356 382 337 382 314 c 0
  382 297 375 285 362 276 c 0
 EndSplineSet
-Substitution2: "GFSPorsonGr-Regular-Single Substitution lookup 0 subtable" uni03F2
+Substitution2: "'lsig' lunar-sigma-1" uni03F2
 EndChar
 
 StartChar: sigma
@@ -23755,7 +23330,7 @@ SplineSet
  118 66 148 23 209 22 c 0
  301 21 351 81 358 202 c 0
 EndSplineSet
-Substitution2: "GFSPorsonGr-Regular-Single Substitution lookup 0 subtable" uni03F2
+Substitution2: "'lsig' lunar-sigma-1" uni03F2
 EndChar
 
 StartChar: tau

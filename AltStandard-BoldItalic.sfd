@@ -3,7 +3,7 @@ FontName: AltStandard-BoldItalic
 FullName: Alt Standard Bold Italic
 FamilyName: Alt Standard
 Weight: Bold
-Copyright: Copyright (c) 2006-2011 Alexey Kryukov <amkryukov@gmail.com>,\nwithout Reserved Font Names.\n\nCopyright (c) 2019-2021, Robert Alessi <alessi@robertalessi.net>,\nwithout Reserved Font Names.\n\nCopyright (c) 2023, Antonis Tsolomitis <atsol@aegean.gr>,\nwithout Reserved Font Names.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\nCopyright (c) 2025, Ioannes Bracledes, without Reserved Font Names.
+Copyright: Copyright (c) 2006-2011 Alexey Kryukov <amkryukov@gmail.com>,\nwithout Reserved Font Names.\n\nCopyright (c) 2019-2021, Robert Alessi <alessi@robertalessi.net>,\nwithout Reserved Font Names.\n\nCopyright (c) 2023, Antonis Tsolomitis <atsol@aegean.gr>,\nwithout Reserved Font Names.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\nCopyright (c) 2025, Ioannes Bracledus, without Reserved Font Names.
 Version: 2.7a
 ItalicAngle: -15.2
 UnderlinePosition: -158
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1300612368
-ModificationTime: 1769538018
+ModificationTime: 1773197757
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -978,7 +978,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 29 11
+WinInfo: 54 27 9
 BeginPrivate: 7
 BlueValues 31 [-18 0 444 456 684 702 712 730]
 OtherBlues 31 [-294 -282 -248 -238 -168 -156]
