@@ -3,7 +3,7 @@ FontName: AltStandard-It
 FullName: Alt Standard It
 FamilyName: Alt Standard
 Weight: Regular
-Copyright: Copyright (c) 2006-2011 Alexey Kryukov <amkryukov@gmail.com>,\nwithout Reserved Font Names.\n\nCopyright (c) 2019-2021, Robert Alessi <alessi@robertalessi.net>,\nwithout Reserved Font Names.\n\nCopyright (c) 2023, Antonis Tsolomitis <atsol@aegean.gr>,\nwithout Reserved Font Names.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\nCopyright (c) 2025, Ioannes Bracledus, without Reserved Font Names.
+Copyright: Copyright (c) 2006-2011 Alexey Kryukov <amkryukov@gmail.com>,\nwithout Reserved Font Names.\n\nCopyright (c) 2019-2021, Robert Alessi <alessi@robertalessi.net>,\nwithout Reserved Font Names.\n\nCopyright (c) 2023, Antonis Tsolomitis <atsol@aegean.gr>,\nwithout Reserved Font Names.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\nCopyright (c) 2025, Ioannes Bracmanus, without Reserved Font Names.
 Version: 2.7a
 ItalicAngle: -15.2
 UnderlinePosition: -158
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1300612368
-ModificationTime: 1773197712
+ModificationTime: 1775097745
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
